@@ -1,6 +1,6 @@
 //
 //  main.cpp
-//  Cours C++
+//  Exercice 8
 //
 //  Created by Tom Desvignes on 12/06/2023.
 //
