@@ -17,7 +17,7 @@ int main() {
     std::cout << "Valeur de d : " <<static_cast<char>(d) << ", Adresse de d : " << static_cast<void*>(&d) << std::endl;
 
     int temp = a;
-    a = b;
+    a = b; 
     b = temp;
     std::cout << "Après permutation : a = " << a << ", b = " << b << std::endl;
 
